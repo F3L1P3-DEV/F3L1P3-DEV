@@ -47,9 +47,6 @@
 
 <br>
 
-### 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=F3L1P3-DEV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F3L1P3-DEV&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+📊 Estadísticas
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=F3L1P3-DEV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=F3L1P3-DEV&theme=tokyonight&hide_border=true" width="48%" /> </p> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,50:001f3f,100:000000&height=100&section=footer" /> 
+</div>
