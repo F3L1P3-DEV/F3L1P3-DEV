@@ -4,9 +4,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/-Valorant%20Player-FF4655?style=for-the-badge&logo=valorant&logoColor=white" />
-<img src="https://img.shields.io/badge/-Halo%20Player-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
-
 </div>
 
 <br>
