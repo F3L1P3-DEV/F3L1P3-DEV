@@ -9,6 +9,7 @@
 <br>
 
 ---
+
 ### 💼 Sobre mí
 
 Desarrollador enfocado en construir herramientas prácticas y funcionales, con experiencia en **desarrollo web** y **automatización de procesos**. Combino atención al detalle con curiosidad constante por nuevas tecnologías, buscando siempre escribir código limpio y mantenible.
