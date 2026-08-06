@@ -49,10 +49,9 @@ Desarrollador enfocado en construir herramientas prácticas y funcionales, con e
 
 ### 🚀 Proyectos destacados
 
-- 🎮 **[ASCII-VALORANT](https://github.com/F3L1P3-DEV/ASCII-VALORANT)** — Galería de arte ASCII para copiar y pegar en el chat de Valorant
-- 🧮 **[CALCULATOR](https://github.com/F3L1P3-DEV/CALCULATOR)** — Calculadora hecha en TeX
-- 🔗 **[URL-SHORTENER](https://github.com/F3L1P3-DEV/URL-SHORTENER)** — Acortador de URLs en Python
-
+- 🎮 **[ASCII-VALORANT](https://github.com/F3L1P3-DEV/ASCII-VALORANT)** — Galería de arte ASCII para copiar y pegar en el chat de Valorant.
+- 🧮 **[CHAT_BOT](https://github.com/F3L1P3-DEV/Chat_Bot)** — Chat Bot para desarrolladores.
+- 🔗 **[CHECKLIST](https://github.com/F3L1P3-DEV/CHECKLIST-REQUERIMENTS)** — Lista de comprobación interactiva.
 ---
 
 <br>
