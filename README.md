@@ -24,7 +24,7 @@ Desarrollador enfocado en construir herramientas prácticas y funcionales, con e
 
 ### 🛠️ Stack tecnológico
 
-<p>Trabajo principalmente con **HTML, CSS y JavaScript** para construir interfaces web, y uso **Python** para automatización y lógica de backend. También manejo **Git** para control de versiones y tengo nociones básicas de **AWS** para despliegue en la nube.</p>
+<p>Trabajo principalmente con HTML, CSS y JavaScript para construir interfaces web, y uso Python para automatización y lógica de backend. También manejo Git para control de versiones y tengo nociones básicas de AWS para despliegue en la nube.</p>
 <h2>🚀 Languajes y herramientas</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
