@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=text&color=00000000&text=Andr%C3%A9s%20Felipe&fontSize=60&fontColor=00BFFF&fontAlign=50&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00BFFF&text=Andr%C3%A9s%20Felipe&height=150&fontSize=60&desc=%3E%20F3L1P3-DEV%20%3C&descAlignY=75&descAlign=50&descColor=00BFFF" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&background=00000000&center=true&vCenter=true&width=600&lines=Desarrollador+%2F%2F+Gamer+%2F%2F+Creador;Valorant+Player+%2F%2F+Halo+Player;Compilando+ideas..." />
 
