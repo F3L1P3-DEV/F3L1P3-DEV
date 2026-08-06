@@ -24,7 +24,6 @@ Desarrollador enfocado en construir herramientas prácticas y funcionales, con e
 
 ### 🛠️ Stack tecnológico
 
-<h1>Hi 👋, I'm Felipe</h1>
 <p>A passionate frontend and backend developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
