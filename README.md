@@ -9,13 +9,14 @@
 <br>
 
 ---
+### 💼 Sobre mí
 
-### ⚡ Sobre mí
+Desarrollador enfocado en construir herramientas prácticas y funcionales, con experiencia en **desarrollo web** y **automatización de procesos**. Combino atención al detalle con curiosidad constante por nuevas tecnologías, buscando siempre escribir código limpio y mantenible.
 
-- `>` Desarrollador enfocado en crear utilidades simples y funcionales
-- `>` Apasionado de los videojuegos: 🎯 **Valorant Player**
-- `>` Siempre explorando nuevas tecnologías
-
+- 🔹 Experiencia práctica en **HTML, CSS, JavaScript y Python**
+- 🔹 Interesado en desarrollo de utilidades y herramientas de productividad
+- 🔹 Aprendizaje continuo de nuevas herramientas y buenas prácticas
+- 🔹 Fuera del código, disfruto de los videojuegos competitivos como pasatiempo
 ---
 
 <br>
