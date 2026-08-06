@@ -18,6 +18,14 @@ Desarrollador enfocado en construir herramientas prácticas y funcionales, con e
 - 🔹 Interesado en desarrollo de utilidades y herramientas de productividad
 - 🔹 Aprendizaje continuo de nuevas herramientas y buenas prácticas
 - 🔹 Fuera del código, disfruto de los videojuegos competitivos como pasatiempo
+
+---
+
+### 🎓 Certificaciones
+
+- 🤖 **IA sin límites** — AWS Entrena Colombia × TIDWIT (Agosto 2026)
+
+  
 ---
 
 <br>
