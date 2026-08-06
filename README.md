@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001f3f,100:003366&height=180&section=header&text=Andr%C3%A9s%20Felipe&fontSize=45&fontColor=00BFFF&animation=fadeIn&fontAlignY=35&desc=%3E%20F3L1P3-DEV%20%3C&descAlignY=60&descAlign=50&descColor=00BFFF" />
+⚡ > Andrés Felipe <
+Desarrollador // Gamer // Creador de utilidades
+<img src="https://img.shields.io/badge/-Valorant%20Player-FF4655?style=for-the-badge&logo=valorant&logoColor=white" /> <img src="https://img.shields.io/badge/-Halo%20Player-107C10?style=for-the-badge&logo=xbox&logoColor=white" /> </div> <br>
 
 <br>
 
