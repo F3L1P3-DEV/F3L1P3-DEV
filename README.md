@@ -6,18 +6,16 @@
 
 </div>
 
-<br>
-
 ---
 
 ### 💼 Sobre mí
 
-Desarrollador enfocado en construir herramientas prácticas y funcionales, con experiencia en **desarrollo web** y **automatización de procesos**. Combino atención al detalle con curiosidad constante por nuevas tecnologías, buscando siempre escribir código limpio y mantenible.
+Desarrollador en formación continua con enfoque en **Análisis y Desarrollo de Software** y automatización de procesos. Combino atención al detalle con un fuerte interés por crear código limpio, mantenible y herramientas prácticas que optimicen flujos de trabajo. Adicionalmente, aplico mis habilidades técnicas en la creación de contenido digital educativo sobre programación.
 
-- 🔹 Experiencia práctica en **HTML, CSS, JavaScript y Python**
-- 🔹 Interesado en desarrollo de utilidades y herramientas de productividad
-- 🔹 Aprendizaje continuo de nuevas herramientas y buenas prácticas
-- 🔹 Fuera del código, disfruto de los videojuegos competitivos como pasatiempo
+- 🚀 Experiencia práctica construyendo soluciones con **HTML, CSS, JavaScript y Python**.
+- ⚙️ Interesado en la arquitectura de software, control de calidad y automatización.
+- 📚 Aprendizaje continuo de nuevas tecnologías, bases de datos y herramientas de despliegue.
+- 🎮 Fuera del entorno de desarrollo, disfruto de los videojuegos competitivos y el diseño de contenido visual.
 
 ---
 
@@ -25,41 +23,46 @@ Desarrollador enfocado en construir herramientas prácticas y funcionales, con e
 
 - ⚙️ **Aplicación de la Calidad del Software en el Proceso de Desarrollo** — SENA (Septiembre 2026)
 - 💻 **[Responsive Web Design](https://freecodecamp.org/certification/f3l1p3-dev/responsive-web-design-v9)** — freeCodeCamp (Agosto 2026)
-- 🗄️ **Aprende SQL** — (Agosto 2026)
+- 🗄️ **Aprende SQL** — Miguel Ángel Durán (Agosto 2026)
 - 🤖 **IA sin límites** — AWS Entrena Colombia × TIDWIT (Agosto 2026)
 
-  
 ---
 
-<br>
+### 🛠️ Stack Tecnológico
 
-### 🛠️ Stack tecnológico
+**Frontend & Diseño Web:**  
+<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 
-<p>Trabajo principalmente con HTML, CSS y JavaScript para construir interfaces web, y uso Python para automatización y lógica de backend. También manejo Git para control de versiones y tengo nociones básicas de AWS para despliegue en la nube.</p>
-<h2>🚀 Lenguajes y herramientas</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a></p>
-<h2>⚡️ ¿Dónde encontrarme?</h2>
-<p><a target="_blank" href="https://www.instagram.com/pipe_30_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+**Backend & Datos:**  
+<a target="_blank" href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="42" height="42" /></a>
 
-
-<br>
+**Herramientas & Entorno:**  
+<a target="_blank" href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="42" height="42" /></a>
+<a target="_blank" href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://aws.amazon.com/es/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
 
 ---
 
-### 🚀 Proyectos destacados
+### 🚀 Proyectos Destacados
 
-- 🎮 **[ASCII-VALORANT](https://github.com/F3L1P3-DEV/ASCII-VALORANT)** — Galería de arte ASCII para copiar y pegar en el chat de Valorant.
-- 🧮 **[CHAT_BOT](https://github.com/F3L1P3-DEV/Chat_Bot)** — Chat Bot para desarrolladores.
-- 🔗 **[CHECKLIST](https://github.com/F3L1P3-DEV/CHECKLIST-REQUERIMENTS)** — Lista de comprobación interactiva.
+- 🎮 **[ASCII-VALORANT](https://github.com/F3L1P3-DEV/ASCII-VALORANT)** — Galería de arte ASCII optimizada para integración y uso directo en el chat de Valorant.
+- 🧮 **[CHAT_BOT](https://github.com/F3L1P3-DEV/Chat_Bot)** — Asistente conversacional interactivo enfocado en facilitar utilidades para desarrolladores.
+- 🔗 **[CHECKLIST](https://github.com/F3L1P3-DEV/CHECKLIST-REQUERIMENTS)** — Herramienta interactiva para la validación y comprobación de requerimientos técnicos.
+
 ---
 
-<br>
+### ⚡️ Redes y Contacto
 
-### 📊 Estadísticas
+<p>
+<a target="_blank" href="https://www.instagram.com/pipe_30_"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=F3L1P3-DEV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
