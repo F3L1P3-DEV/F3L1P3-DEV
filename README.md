@@ -12,14 +12,14 @@
 
 Desarrollador en formación continua con enfoque en **Análisis y Desarrollo de Software** y automatización de procesos. Combino atención al detalle con un fuerte interés por crear código limpio, mantenible y herramientas prácticas que optimicen flujos de trabajo. Adicionalmente, aplico mis habilidades técnicas en la creación de contenido digital educativo sobre programación.
 
-- 🚀 Experiencia práctica construyendo soluciones con **Python, JavaScript, HTML y CSS**.
+- 🚀 Experiencia práctica construyendo soluciones con **Python, JavaScript, C, HTML y CSS**.
 - ⚙️ Interesado en la arquitectura de software, control de calidad y bases de datos.
 - 📚 Aprendizaje continuo de nuevas tecnologías y metodologías de desarrollo.
 - 🎮 Fuera del entorno de desarrollo, disfruto de los videojuegos competitivos y el diseño de contenido visual.
 
 ---
 
-### 🎓 Certificaciones adicionales
+### 🎓 Certificaciones
 
 - ⚙️ **Aplicación de la Calidad del Software en el Proceso de Desarrollo** — SENA (Septiembre 2026)
 - 💻 **[Responsive Web Design](https://freecodecamp.org/certification/f3l1p3-dev/responsive-web-design-v9)** — freeCodeCamp (Agosto 2026)
@@ -33,6 +33,7 @@ Desarrollador en formación continua con enfoque en **Análisis y Desarrollo de 
 **Lenguajes de Programación:**  
 <a target="_blank" href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 
 **Frontend & Diseño Web:**  
 <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
