@@ -25,7 +25,7 @@ Desarrollador enfocado en construir herramientas prácticas y funcionales, con e
 
 - ⚙️ **Aplicación de la Calidad del Software en el Proceso de Desarrollo** — SENA (Septiembre 2026)
 - 💻 **[Responsive Web Design](https://freecodecamp.org/certification/f3l1p3-dev/responsive-web-design-v9)** — freeCodeCamp (Agosto 2026)
-- 🗄️ **Aprende SQL** — Miguel Ángel Durán (Agosto 2026)
+- 🗄️ **Aprende SQL** — (Agosto 2026)
 - 🤖 **IA sin límites** — AWS Entrena Colombia × TIDWIT (Agosto 2026)
 
   
