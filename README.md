@@ -19,7 +19,7 @@ Desarrollador en formación continua con enfoque en **Análisis y Desarrollo de 
 
 ---
 
-### 🎓 Certificaciones
+### 🎓 Certificaciones adicionales
 
 - ⚙️ **Aplicación de la Calidad del Software en el Proceso de Desarrollo** — SENA (Septiembre 2026)
 - 💻 **[Responsive Web Design](https://freecodecamp.org/certification/f3l1p3-dev/responsive-web-design-v9)** — freeCodeCamp (Agosto 2026)
