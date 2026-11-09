@@ -10,7 +10,7 @@
 
 ### 💼 Sobre mí
 
-Desarrollador en formación continua con enfoque en **Análisis y Desarrollo de Software** y automatización de procesos. Combino atención al detalle con un fuerte interés por crear código limpio, mantenible y herramientas prácticas que optimicen flujos de trabajo. Adicionalmente, aplico mis habilidades técnicas en la creación de contenido digital educativo sobre programación.
+Desarrollador de software y automatización de procesos. Combino atención al detalle con un fuerte interés por crear código limpio, mantenible y herramientas prácticas que optimicen flujos de trabajo. Adicionalmente, aplico mis habilidades técnicas en la creación de contenido digital educativo sobre programación.
 
 - 🚀 Experiencia práctica construyendo soluciones con **Python, JavaScript, C, HTML y CSS**.
 - ⚙️ Interesado en la arquitectura de software, control de calidad y bases de datos.
