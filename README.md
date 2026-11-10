@@ -21,6 +21,7 @@ Desarrollador de software y automatización de procesos. Combino atención al de
 
 ### 🎓 Certificaciones adicionales
 
+- 💻 ** CS50x: Introduction to Computer Science** - Harvard University (Noviembre 2026)
 - ⚙️ **Aplicación de la Calidad del Software en el Proceso de Desarrollo** — SENA (Septiembre 2026)
 - 💻 **[Responsive Web Design](https://freecodecamp.org/certification/f3l1p3-dev/responsive-web-design-v9)** — freeCodeCamp (Agosto 2026)
 - 🗄️ **Aprende SQL** — (Agosto 2026)
